@@ -1,0 +1,3 @@
+/Users/vaibhav/AndroidStudioProjects/FrameProcX/app/.cxx/Debug/343j4w6p/x86/CMakeFiles/edgedetectx.dir
+/Users/vaibhav/AndroidStudioProjects/FrameProcX/app/.cxx/Debug/343j4w6p/x86/CMakeFiles/edit_cache.dir
+/Users/vaibhav/AndroidStudioProjects/FrameProcX/app/.cxx/Debug/343j4w6p/x86/CMakeFiles/rebuild_cache.dir

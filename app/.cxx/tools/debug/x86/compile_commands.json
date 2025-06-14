@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/vaibhav/AndroidStudioProjects/FrameProcX/app/.cxx/Debug/343j4w6p/x86",
+  "command": "/Users/vaibhav/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android26 --sysroot=/Users/vaibhav/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dedgedetectx_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles/edgedetectx.dir/native-lib.cpp.o -c /Users/vaibhav/AndroidStudioProjects/FrameProcX/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/vaibhav/AndroidStudioProjects/FrameProcX/app/src/main/cpp/native-lib.cpp"
+}
+]

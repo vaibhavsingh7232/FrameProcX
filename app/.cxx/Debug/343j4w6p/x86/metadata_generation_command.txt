@@ -1,0 +1,19 @@
+                        -H/Users/vaibhav/AndroidStudioProjects/FrameProcX/app/src/main/cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=26
+-DANDROID_PLATFORM=android-26
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/Users/vaibhav/Library/Android/sdk/ndk/27.0.12077973
+-DCMAKE_ANDROID_NDK=/Users/vaibhav/Library/Android/sdk/ndk/27.0.12077973
+-DCMAKE_TOOLCHAIN_FILE=/Users/vaibhav/Library/Android/sdk/ndk/27.0.12077973/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/vaibhav/Library/Android/sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_CXX_FLAGS=-std=c++17
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/vaibhav/AndroidStudioProjects/FrameProcX/app/build/intermediates/cxx/Debug/343j4w6p/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/vaibhav/AndroidStudioProjects/FrameProcX/app/build/intermediates/cxx/Debug/343j4w6p/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/vaibhav/AndroidStudioProjects/FrameProcX/app/.cxx/Debug/343j4w6p/x86
+-GNinja
+                        Build command args: []
+                        Version: 2

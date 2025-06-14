@@ -1,0 +1,17 @@
+# Built files
+*.apk
+*.aab
+
+# Android Studio files
+.idea/
+.gradle/
+build/
+captures/
+*.iml
+local.properties
+
+# OpenCV libs (already included in setup instructions)
+app/libs/opencv/
+
+# System files
+.DS_Store
