@@ -10,7 +10,7 @@ captures/
 *.iml
 local.properties
 
-# OpenCV libs (already included in setup instructions)
+# OpenCV libs (large binaries)
 app/libs/opencv/
 
 # System files
