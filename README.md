@@ -1,12 +1,12 @@
 # FrameProcX
-## ✅ Features Implemented
-- 📸 **Camera Integration**: Using Android Camera2 API
-- 🖥️ **OpenCV Processing**: Canny Edge Detection in C++
-- 🎨 **OpenGL ES 2.0 Rendering**: Hardware-accelerated display
-- 🔄 **JNI Bridge**: Efficient Java-C++ communication
-- ⏱️ **Performance**: 15-20 FPS on mid-range devices
+##  Features Implemented
+-  **Camera Integration**: Using Android Camera2 API
+-  **OpenCV Processing**: Canny Edge Detection in C++
+-  **OpenGL ES 2.0 Rendering**: Hardware-accelerated display
+-  **JNI Bridge**: Efficient Java-C++ communication
+-  **Performance**: 15-20 FPS on mid-range devices
 
-## ⚙️ Setup Instructions
+## ⚙ Setup Instructions
 
 ### Prerequisites
 - Android Studio Hedgehog (2023.1.1)+
